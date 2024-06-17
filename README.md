@@ -41,11 +41,15 @@ The dataset provided by the client consisted of 59,090 observations across 10 va
 1- Trade Patterns (1988-2016):
 
 USA: Largest exporter, importer, and re-exporter of commodities.
+
 Canada: Largest re-importer of commodities; started re-exporting commodities from the year 2000 and was the largest re-exporter by 2016. Canada also dominates the re-import trade business.
+
 Australia: Has not re-exported commodities since the year 2000.
+
 Re-import and Re-export Trends:
 
 The USA has never re-imported commodities throughout the years.
+
 Canada began re-exporting commodities in the year 2000.
 
 2- Trade Balance Analysis:
