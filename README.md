@@ -46,23 +46,23 @@ Canada: Largest re-importer of commodities; started re-exporting commodities fro
 
 Australia: Has not re-exported commodities since the year 2000.
 
-Re-import and Re-export Trends:
+2- Re-import and Re-export Trends:
 
 The USA has never re-imported commodities throughout the years.
 
 Canada began re-exporting commodities in the year 2000.
 
-2- Trade Balance Analysis:
+3- Trade Balance Analysis:
 
 All countries had a trade surplus from 1988 to 2016. Countries were ranked based on this observation.
 It is believed that a country with a trade surplus isn't suitable for import business.
 
-3- Top Categories and Commodities:
+4- Top Categories and Commodities:
 
 Top categories were identified for each country.
 Top commodities were identified based on their quantity traded via export, import, re-export, and re-import.
 
-4- Commodity Analysis:
+5- Commodity Analysis:
 
 For identified potential commodities, their quantity and unit price over the past years were analyzed.
 Unit prices differed for each country.
